@@ -2,5 +2,5 @@
 
 [[redirects]]
 from = "/*"
-to = "Agencyclone"
+to = "/index.html"
 status = 200
